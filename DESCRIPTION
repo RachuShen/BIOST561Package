@@ -1,4 +1,4 @@
-Package: Rachu
+Package: BIOST561Package
 Type: Package
 Title: Compute the log of the sum of exponentials
 Version: 0.1.0
