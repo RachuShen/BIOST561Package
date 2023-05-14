@@ -1,0 +1,14 @@
+Package: Rachu
+Type: Package
+Title: Compute the log of the sum of exponentials
+Version: 0.1.0
+Author: Rachu Shen
+Maintainer: Rachu Shen <shenw9@uw.edu>
+Description: Accurately computes the logarithm of the sum of exponentials, that is, log(sum(exp(lx))).
+Encoding: UTF-8
+License: GPL-3
+LazyData: false
+RoxygenNote: 7.2.3
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
